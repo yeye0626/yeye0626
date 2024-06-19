@@ -1,7 +1,6 @@
 ## Hi there 👋
-Welcom to my world🧑‍🏭
+Welcome to my world🧑‍🏭
 
-- 🌱 I’m currently learning business and linguistic.
-- 💬 Ask me about anything that interests you.
-- 📫 How to reach me: camusdavis@gmail.com
-- ⚡ Fun fact: fitness
+- 🌱 I’m a student of Business and Linguistics.
+- 💬 Feel free to ask me anything that interests you.
+- 📫 Contact: camusdavis@gmail.com
