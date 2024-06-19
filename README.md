@@ -1,9 +1,5 @@
 ## Hi there 👋
-
-<!--
-**yeye0626/yeye0626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Welcom to my world🧑‍🏭
 
 - 🌱 I’m currently learning business and linguistic.
 - 💬 Ask me about anything that interests you.
